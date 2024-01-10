@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **samueldan@live.com**
 
-- 📄 Know about my experiences [https://samuel-momoh.github.io/](https://samuel-momoh.github.io/)
+- 📄 Know about my experiences [Portfolio](https://www.sammycodes.com/)
 
 - ⚡ Fun fact **I think am funny**
 
