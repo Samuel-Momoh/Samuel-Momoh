@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [create-project-template](https://github.com/Samuel-Momoh/create-project-template)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Samuel-Momoh](https://github.com/Samuel-Momoh)
+- 👨‍💻 All of my projects are available at [https://github.com/Samuel-Momoh](https://www.sammycodes.com/)
 
 - 💬 Ask me about **react, react-native, Graphql, Apollographql, node, express, and Javascript**
 
